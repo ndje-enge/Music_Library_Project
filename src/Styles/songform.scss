@@ -1,0 +1,25 @@
+.song-form-wrapper {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+    z-index: 1000;
+  
+    form {
+      label {
+        display: block;
+        margin-bottom: 10px;
+  
+        input {
+          width: 100%;
+          padding: 8px;
+          margin-top: 4px;
+          box-sizing: border-box;
+        }
+      }
+  
+      button {
+        padding: 8px;
+      }
+    }
+  }
+  
