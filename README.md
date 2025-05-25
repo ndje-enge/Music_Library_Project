@@ -1,3 +1,14 @@
+# <p align="center"> Music Library Project</p>
+
+- # Overview
+
+  Welcome to the Music Library project ! 
+
+  This project aims to develop an interactive app allowing users to manage their music library and listen to their favourite songs
+
+  In a team project context (4 people) we used Jira to dedicate the different tasks to each other as well as git to update our project easily without conflicts.
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
